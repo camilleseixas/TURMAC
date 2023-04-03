@@ -4,4 +4,4 @@
 - Estou usando o HTML
 - Apenas eu estou programando no momento
 - Licença de uso
-- eu link: https://camilleseixas.github.io/TURMAF/
+- eu link: https://camilleseixas.github.io/TURMAC/
